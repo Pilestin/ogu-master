@@ -1,6 +1,4 @@
 __pycache__/
-/DeepLearningApplications 
-/Algorithms 
 PatternRecognition/leaves/
 PatternRecognition/processed_images/*
 PatternRecognition/__pycache__/
