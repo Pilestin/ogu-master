@@ -7,8 +7,8 @@ Bu repo, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği yüksek li
 | **Lecture** | **Description** | **Link** |
 | ----------- | --------------- | -------- |
 | **Pattern Recognition** | Görüntü işleme temelli sınıflandırma ve öznitelik çıkarımı çalışmaları  | [Pattern Recognition](https://github.com/Pilestin/OGU_Master/tree/master/PatternRecognition) |
-| **Deep Learning Applications** | LSTM, CNN gibi derin öğrenme modelleriyle yapılmış projeler    | [Deep Learning Applications](https://github.com/Pilestin/) |
-| **Algorithms** | Bald Eagle ve Golden Sine algoritmaları ile gerçekleştirilmiş karşılaştırmalı optimizasyon çalışması | [BESandGSA](https://github.com/Pilestin/BESandGSA/tree/master) |
+| **Deep Learning Applications** | LSTM, CNN gibi derin öğrenme modelleriyle yapılmış projeler    | [Deep Learning Applications](https://github.com/Pilestin/OGU_Master/tree/master/DeepLearningApplications) |
+| **Algorithms** | Bald Eagle ve Golden Sine algoritmaları ile gerçekleştirilmiş karşılaştırmalı optimizasyon çalışması | [BESandGSA](https://github.com/Pilestin/OGU_Master/tree/master/BESandGSA) |
 
 ## 📗 2. Dönem
 
