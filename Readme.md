@@ -1,7 +1,7 @@
 ﻿# ogu-master
 
 Bu repo, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği yüksek lisansında yapılan ders projelerini içerir.
-Prof Dr. İ.D. ve Doç Dr. Ş.I. 'dan ders alan arkadaşlar için sabırlar diliyorum. Umarım birşeyler öğrenirsiniz.
+Prof Dr. İ.D. ve Doç Dr. Ş.I. 'dan ders alan arkadaşlar için sabırlar diliyorum. Umarım birşeyler öğrenirsiniz (:D).
 
 ## 📘 1. Dönem
 
