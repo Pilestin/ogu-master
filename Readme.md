@@ -1,4 +1,4 @@
-# OGU Yüksek Lisans - 2. Dönem Çalışmaları
+# OGU Yüksek Lisans - Bilgisayar Bilimleri
 
 <div align="center">
 
